@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "test": "vitest run src/AppHuerto.test.tsx",
-    "bench": "vitest bench bench/kadane.bench.ts"
+    "bench": "vitest bench src/AppHuerto.bench.tsx"
   },
   "dependencies": {
     "react": "^19.2.0",

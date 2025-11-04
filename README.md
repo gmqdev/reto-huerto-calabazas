@@ -27,7 +27,8 @@ Implementación en **React + TypeScript + Vite** del problema *"máximo sub-arra
 ## Estructura relevante
 - src/AppHuerto.tsx — lógica, UI y Kadane (clásico y visual).
 - src/AppHuerto.css — estilos.
-- src/App.test.tsx — tests con Vitest.
+- src/AppHuerto.test.tsx — tests con Vitest.
+- src/AppHuerto.bench.tsx - bench con Vitest.
 - package.json — scripts npm.
 
 ## ¿Por qué a veces las mediciones salen `0.0000 ms`?
