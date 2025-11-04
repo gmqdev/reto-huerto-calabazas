@@ -17,7 +17,11 @@ Implementación en **React + TypeScript + Vite** del problema *"máximo sub-arra
    ```
 3. Ejecutar tests:
    ```
-   npx vitest
+   npm run test
+   ```
+4. Ejecutar bench:
+   ```
+   npm run bench
    ```
 
 ## Estructura relevante
