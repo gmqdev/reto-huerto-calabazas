@@ -1,9 +1,10 @@
 # 🎃 El Huerto de Calabazas
 
-Implementación en **React + TypeScript + Vite** del problema *"máximo sub-array contiguo"* (Kadane) por *Gonzalo Muñoz Quintero*. Incluye dos modos:
+Implementación en **React + TypeScript + Vite** del problema *"máximo sub-array contiguo"* (Kadane) por *Gonzalo Muñoz Quintero*.
+
+Incluye dos modos:
 - **Modo Clásico**: devuelve la ganancia máxima (O(n)).
 - **Modo Visual**: devuelve ganancia + índices (O(n)) y permite listar todos los sub-arrays (O(n²)).
-- **Tests** con Vitest y medición sencilla en UI.
 
 
 ## Cómo ejecutar (Windows)
